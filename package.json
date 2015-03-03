@@ -1,7 +1,7 @@
-{
-  "name": "sdp-policy-gitbook",
+
+  "name": "new-economy-gitbook",
   "version": "0.0.1",
-  "description": "「政綱」",
+  "description": "問題討論：新經濟",
   "private": true,
   "devDependencies": {
     "gitbook": "^1.5.0",
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdp-tw/sdp-policy-gitbook.git"
+    "url": "https://github.com/sdparty/new-economy-gitbook.git"
   },
   "bugs": {
-    "url": "https://github.com/sdp-tw/sdp-policy-gitbook/issues"
+    "url": "https://github.com/sdparty/new-economy-gitbook/issues"
   },
-  "homepage": "https://github.com/sdp-tw/sdp-policy-gitbook/"
+  "homepage": "https://github.com/sdparty/new-economy-gitbooks"
 }
